@@ -4,7 +4,7 @@
 
 **Content**
 This is the code repository for the research publication "Minimax Decision Trees via Martingale Approximations" by Zhenyuan Zhang and Hengrui Luo. 
-The manuscript of this paper can be accessed at https://arxiv.org/pdf/2502.12999. 
+The manuscript of this paper can be accessed at [https://arxiv.org/pdf/2502.16758](https://arxiv.org/abs/2502.16758). 
 
  - We provided a set of working code of simulation and computation of the decision tree regression via minimax martingale splitting criterion.
  -  Reproducible Code
@@ -25,10 +25,10 @@ Please cite our paper using following BibTeX item:
 		title={Minimax Decision Trees via Martingale Approximations}, 
 		author={Zhenyuan Zhang and Hengrui Luo},
 		year={2025}, 
-		eprint={2502.12999},
+		eprint={2502.16758},
 		archivePrefix={arXiv},
-		primaryClass={stat.ML},
-		url={https://arxiv.org/abs/2502.12999}, 
+		primaryClass={math.ST},
+		url={https://arxiv.org/abs/2502.16758}, 
     }
 
 Thank you again for the interest and please reach out if you have further questions.
